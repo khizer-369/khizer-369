@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khizer-369&label=Profile%20views&color=0e75b6&style=flat" alt="khizer-369" /> </p>
 
-- 🌱 I’m currently learning **three.js**
+- 🌱 I’m currently learning **next.js**
 
 - 👨‍💻 All of my projects are available at [https://khizer.dev](https://khizer.dev)
 
